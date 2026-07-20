@@ -405,23 +405,21 @@
                             Get in touch with us & 
                             <br>send us message today!
                         </h2>
-                        <p>
-                            Saasbiz is a different kind of architecture practice. Founded by LoganCee in 1991, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.
-                        </p>
+                       
                         <h3>
-                            198 West 21th Street, Suite 721 
+                            THE COPPERBELT UNIVERSITY
                             <br>
-                            New York, NY 10010
+                           RIVERSIDE,KITWE
                         </h3>
                         <h4>
                             <span style = "font-weight: bold">Email:</span> 
                             Dynamiclayers.Net 
                             <br> 
                             <span style = "font-weight: bold">Phone:</span> 
-                            +88 (0) 101 0000 000
+                            0754372967
                             <br> 
                             <span style = "font-weight: bold">Fax:</span> 
-                            +88 (0) 202 0000 001
+                            0971236789
                         </h4>
                     </div>
                 </div>
@@ -482,14 +480,14 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                      <div class="footer_widget">
-                        <h3>Headquarters</h3>
+                        
                         <p>
-                            962 Fifth Avenue, 3rd Floor New York, NY10022
+                            THE COPPERBELT UNIVERSITY
                         </p>
                         <p>
                             contact@barbershop.com
                             <br>
-                            (+123) 456 789 101    
+                            0753123456 
                         </p>
                      </div>
                 </div>
@@ -508,7 +506,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="footer_widget">
-                        <h3>Subscribe to our contents</h3>
+                        
                         <div class="subscribe_form">
                             <form action="#" class="subscribe_form" novalidate="true">
                                 <input type="email" name="EMAIL" id="subs-email" class="form_input" placeholder="Email Address...">
